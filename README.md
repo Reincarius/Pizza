@@ -1,2 +1,1 @@
-# Pizza
- Thinkful Pizza Github
+# pizza
